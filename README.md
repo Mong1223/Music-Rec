@@ -39,7 +39,7 @@ members_csv.info()
 RangeIndex: 34403 entries, 0 to 34402
 Data columns (total 7 columns):
    Column     |             Non-Null| Count|  Dtype 
----  ------          |        -------------- | ----- 
+---  ------          |:        -------------- :|: ----- 
  0  | msno               |     34403| non-null|  object
  1  | city               |     34403| non-null|  int64 
  2  | bd                 |     34403| non-null|  int64 
