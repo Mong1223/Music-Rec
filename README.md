@@ -41,13 +41,13 @@ Data columns (total 7 columns):
 | Column       | Non-Null                | Count || Dtype |
 | ------------- |:------------------:| -----:| ----: |
 | msno | 34403 | non-null | object |
-| city     | 34403 |   non-null | int64 |
-| bd        | 34403    | non-null | int64 |
-| gender     | 14501 |   non-null | object |
-| registered_via  | 34403        |    non-null | int64 |
-| registration_init_time     | 34403   | non-null | int64 |
-| столбец 2     | 34403 |   non-null | int64 |
-| expiration_date  | 34403        |    non-null | int64 |
+| city | 34403 | non-null | int64 |
+| bd | 34403 | non-null | int64 |
+| gender | 14501 | non-null | object |
+| registered_via | 34403 | non-null | int64 |
+| registration_init_time | 34403 | non-null | int64 |
+| expiration_date | 34403 |  non-null | int64 |
+
 dtypes: int64(5), object(2)
 memory usage: 1.8+ MB
 
